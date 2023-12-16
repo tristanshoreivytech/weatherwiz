@@ -1,0 +1,5 @@
+Description: WeatherWiz is an easy to use GUI application which can check current weather data around the world simply by entering the name of a city.
+
+In the textbox next to the “Enter City:” prompt, enter any city of your choice (make sure to spell it correctly and only enter the city name, not the country, state, province, etc.). Then, press the “Get Weather” Button. A new window will appear and show the results of the current weather for that city. Make sure you have internet access as live data is accessed via the OpenWeatherAPI. Multiple windows can be created, so you can view the weather for multiple different cities at the same time. When you are finished with the window, click the “Back to Main Menu” button to close the window. To close ALL windows, click the “Exit” button on the main window.
+
+Results for each city including the following: City name, Current temperature (in celsius), weather description, humidity, and the coordinates for the city (in longitude and latitude). Icon shows the general weather condition. Hovering over the weather icon will provide the text description for that icon.
